@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 title: Martynas Adomaitis 
-#title: Portfolio
+show_downloads: true
+google_analytics:
 description: Projects in progress
